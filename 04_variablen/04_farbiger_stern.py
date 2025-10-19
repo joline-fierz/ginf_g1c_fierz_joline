@@ -1,0 +1,30 @@
+import turtle
+
+s = 100
+r = "red"
+b = "blue"
+turtle.pencolor(r)
+turtle.fd(s)
+turtle.lt(120)
+turtle.fd(s)
+turtle.rt(48)
+turtle.pencolor(b)
+turtle.fd(s)
+turtle.lt(120)
+turtle.fd(s)
+turtle.rt(48)
+turtle.pencolor(r)
+turtle.fd(s)
+turtle.lt(120)
+turtle.fd(s)
+turtle.rt(48)
+turtle.pencolor(b)
+turtle.fd(s)
+turtle.lt(120)
+turtle.fd(s)
+turtle.rt(48)
+turtle.pencolor(r)
+turtle.fd(s)
+turtle.lt(120)
+turtle.fd(s)
+turtle.rt(48)
