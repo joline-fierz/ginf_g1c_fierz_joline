@@ -15,6 +15,3 @@ turtle.fd(a)
 turtle.lt(c)
 turtle.pencolor("tan")
 turtle.fd(b)
-
-
-

@@ -18,6 +18,3 @@ turtle.rt(30)
 turtle.fd(150)
 turtle.rt(120)
 turtle.fd(150)
-
-
-

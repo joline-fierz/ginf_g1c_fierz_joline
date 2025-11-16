@@ -1,8 +1,8 @@
 import turtle
 
-d = 10 # Die Variable d speichert den Int (kurz für Integer) 10.
+d = 10  # Die Variable d speichert den Int (kurz für Integer) 10.
 starke = 2
-farbe_1 = "red" # Die Variable farbe_1 speichert den String "red"
+farbe_1 = "red"  # Die Variable farbe_1 speichert den String "red"
 farbe_2 = "green"
 farbe_3 = "blue"
 turtle.pensize(starke)

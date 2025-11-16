@@ -16,5 +16,3 @@ turtle.rt(90)
 turtle.pencolor("yellow")
 turtle.speed(10)
 turtle.circle(100)
-
-

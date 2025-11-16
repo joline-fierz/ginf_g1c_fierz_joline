@@ -9,4 +9,3 @@ turtle.lt(b)
 turtle.fd(a)
 turtle.lt(b)
 turtle.fd(a)
-

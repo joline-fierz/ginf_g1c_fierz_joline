@@ -26,4 +26,3 @@ turtle.right(45)
 turtle.forward(150)
 turtle.backward(150)
 turtle.right(45)
-

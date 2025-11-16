@@ -1,5 +1,5 @@
 import random
-import turtle 
+import turtle
 
 d = random.randrange(10, 26)
 starke = random.randrange(1, 6)
@@ -25,5 +25,3 @@ turtle.goto(x3, y3)
 turtle.pencolor(farbe_3)
 turtle.dot(d)
 turtle.goto(x1, y1)
-
-

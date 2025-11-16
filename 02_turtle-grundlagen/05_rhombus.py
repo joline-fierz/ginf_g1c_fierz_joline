@@ -1,5 +1,4 @@
-
-import turtle 
+import turtle
 
 turtle.shape("turtle")
 turtle.left(90)

@@ -1,5 +1,5 @@
-import turtle
 import random
+import turtle
 
 a = random.randrange(10, 100)
 turtle.forward(a)

@@ -1,11 +1,12 @@
-import turtle
 import random
+import turtle
+
 turtle.shape("turtle")
 farbe_1 = "red"
 farbe_2 = "green"
 farbe_3 = "blue"
 farbe_4 = "pink"
-radius = random.randrange(50,76)
+radius = random.randrange(50, 76)
 turtle.pencolor(farbe_1)
 turtle.circle(radius)
 turtle.pu()

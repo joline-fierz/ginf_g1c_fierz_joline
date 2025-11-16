@@ -1,7 +1,8 @@
-import turtle
 import random
+import turtle
+
 turtle.shape("turtle")
-a = random.randrange(50,101)
+a = random.randrange(50, 101)
 b = random.randrange(25, 41)
 turtle.fd(a)
 turtle.lt(90)
