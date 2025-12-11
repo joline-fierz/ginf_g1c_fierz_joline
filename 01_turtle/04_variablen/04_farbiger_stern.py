@@ -1,30 +1,30 @@
 import turtle
 
-s = 100
-r = "red"
-b = "blue"
-turtle.pencolor(r)
-turtle.fd(s)
+seitenlaenge = 100
+farbe_1 = "red"
+farbe_2 = "blue"
+turtle.pencolor(farbe_1)
+turtle.fd(seitenlaenge)
 turtle.lt(120)
-turtle.fd(s)
+turtle.fd(seitenlaenge)
 turtle.rt(48)
-turtle.pencolor(b)
-turtle.fd(s)
+turtle.pencolor(farbe_2)
+turtle.fd(seitenlaenge)
 turtle.lt(120)
-turtle.fd(s)
+turtle.fd(seitenlaenge)
 turtle.rt(48)
-turtle.pencolor(r)
-turtle.fd(s)
+turtle.pencolor(farbe_1)
+turtle.fd(seitenlaenge)
 turtle.lt(120)
-turtle.fd(s)
+turtle.fd(seitenlaenge)
 turtle.rt(48)
-turtle.pencolor(b)
-turtle.fd(s)
+turtle.pencolor(farbe_2)
+turtle.fd(seitenlaenge)
 turtle.lt(120)
-turtle.fd(s)
+turtle.fd(seitenlaenge)
 turtle.rt(48)
-turtle.pencolor(r)
-turtle.fd(s)
+turtle.pencolor(farbe_1)
+turtle.fd(seitenlaenge)
 turtle.lt(120)
-turtle.fd(s)
+turtle.fd(seitenlaenge)
 turtle.rt(48)

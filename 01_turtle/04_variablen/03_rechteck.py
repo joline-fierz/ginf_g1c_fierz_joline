@@ -3,15 +3,15 @@ import turtle
 turtle.shape("turtle")
 a = 200
 b = 100
-c = 90
+alpha = 90
 turtle.pencolor("navy")
 turtle.fd(a)
-turtle.lt(c)
+turtle.lt(alpha)
 turtle.pencolor("tan")
 turtle.fd(b)
-turtle.lt(c)
+turtle.lt(alpha)
 turtle.pencolor("navy")
 turtle.fd(a)
-turtle.lt(c)
+turtle.lt(alpha)
 turtle.pencolor("tan")
 turtle.fd(b)

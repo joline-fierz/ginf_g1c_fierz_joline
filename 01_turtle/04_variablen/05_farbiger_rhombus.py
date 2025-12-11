@@ -1,18 +1,18 @@
 import turtle
 
-s = 100
-t = "turquoise"
-size = 3
-a = 60
-b = 120
-turtle.shape("turtle")
-turtle.pensize(size)
-turtle.pencolor(t)
+a = 100
+alpha = 120
+beta = 60
+farbe = "blue"
+staerke = 3
+turtle.pencolor(farbe)
+turtle.pensize(staerke)
 turtle.lt(30)
-turtle.fd(s)
-turtle.lt(b)
-turtle.fd(s)
-turtle.lt(a)
-turtle.fd(s)
-turtle.lt(b)
-turtle.fd(s)
+turtle.fd(a)
+turtle.lt(alpha)
+turtle.fd(a)
+turtle.lt(beta)
+turtle.fd(a)
+turtle.lt(alpha)
+turtle.fd(a)
+turtle.lt(beta)
