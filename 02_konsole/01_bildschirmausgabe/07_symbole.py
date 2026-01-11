@@ -1,18 +1,14 @@
-import random as r
+import random as rd
 
-
-print("Nun erscheinen 4 Reihen mit jeweils 4 Symbolen")
-symbole = ["****", "$$$$", "¢¢¢¢"]
-symbol = r.choice(symbole)
+# Variante A
+symbole = ["****", "€€€€", "$$$$"]
+symbol = rd.choice(symbole)
 for _ in range(4):
-  print(symbol)
+    print(symbol)
 
-print("Das waren die 4 ausgewählten symbole in jeweils 4 Reihen")
-
-
-# Varante B
-symbole = ["*", "$", "¢"]
-symbol = r.choice (symbole)
+# Variante B
+symbole = ["*", "€", "$"]
+symbol = rd.choice(symbole)
 for _ in range(4):
-  print(4*symbol)
-  
+    print(4 * symbol)
+    

@@ -5,4 +5,8 @@ umfang = a + a + a + a # es speichert nur das Erebnis, nicht den Rechenweg
 flaecheninalt = a * a
 print(f"Seitenlaenge: {a}")
 print(f"Umfang: {umfang}")
-print(f"Flaeceninhalt: {flaecheninalt}")
+print(f"Flächeninhalt: {flaecheninalt}")
+
+
+
+
