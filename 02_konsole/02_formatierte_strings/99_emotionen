@@ -1,0 +1,8 @@
+import random as r
+
+# Liste beginnt mit eckigen Klamern
+emotionen = [":-)", ":-(", ":-o", ":-|", ";-)", ";-|" ] #Liste
+anzahl = r.randrange(1, 11)
+for _ in range(anzahl):
+    emotion = r.choice(emotionen) # choice benötigt eine Liste
+    print(emotion)

@@ -1,15 +1,17 @@
-import random
 import turtle
+import random as rd
 
-d = random.randrange(10, 26)
-starke = random.randrange(1, 6)
-x_1 = random.randrange(-100, 101)
-x_2 = random.randrange(-100, 101)
-x_3 = random.randrange(-100, 101)
-y_1 = random.randrange(-200, 176)
-y_2 = random.randrange(-200, 176)
-y_3 = random.randrange(-200, 176)
-farbe_1 = "red"
+d = rd.randrange(10, 26)
+starke = rd.randrange(1, 6)
+
+x_1 = rd.randrange(-100, 101)
+x_2 = rd.randrange(-100, 101)
+x_3 = rd.randrange(-100, 101)
+y_1 = rd.randrange(-200, 176)
+y_2 = rd.randrange(-200, 176)
+y_3 = rd.randrange(-200, 176)
+
+farbe_1 = "red"  # Die Variable farbe_1 speichert den String "red".
 farbe_2 = "green"
 farbe_3 = "blue"
 turtle.pensize(starke)

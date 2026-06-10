@@ -1,13 +1,13 @@
 import random as rd
-# Zufallszahl zwischn 1 und 6
+
+# Zufallszahl zwischen 1 und 6
 note = rd.randrange(1, 7)
-# Eckige Klammer bedeuten Liste z.B Einkaufsliste 
-# Eine Liste speichert mehrere Strings oder Integer
+# Eckige Klammer bedeutet Liste
+# Eine Liste speichert mehrere Strings oder Ints
 faecher = ["Informatik", "Mathematik", "Deutsch"]
-# choice wählt in einer Liste zufällig ein ELement aus
-# Element kann ein String oder Integer sein
+# choice wählt in einer Liste zufällig ein Element aus
+# Element kann ein String oder Int sein
 fach = rd.choice(faecher)
-# Geschweifte Klammer benötigt am Anfang (runde Klammern) immer ein f 
 # f steht für formatierter String
-print (f"Notenwürfel für das Fach {fach}")
-print (f"Ihre gewürfelte Note lautet: {note}")
+print(f"Notenwürfel für das Fach {fach}")
+print(f"Ihre gewürfelte Note lautet: {note}")
