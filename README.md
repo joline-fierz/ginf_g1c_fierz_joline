@@ -79,3 +79,61 @@ Dafür gibt es auch Abzug (-0,5).
 Danke für Ihre Abgabe. Ich habe mir viele Programme angeschaut. Sie programmieren gut und nutzen auch gerne Extras wie
 z.B. Farben. Das ist alles kein Problem. Schauen Sie einfach, dass dabei das Wesentliche nicht verloren geht. Sie
 könnten noch mehr Punkte sammeln, wenn Sie die Variablen besser benennen und die Clean-Code-Regeln genauer anwenden.
+
+### GitHub-Bewertung 2 (9. Januar 2026)
+
+Es gibt für diese Bewertung maximal **5 Punkte**.
+
+#### Kriterien
+
+- [1 Punkt] Es sind **alle Ordner- und Dateinamen** vorhanden und wie in den Übungen benannt.
+- [1 Punkt] **Alle Übungen** wurden **vollständig** und **korrekt** gelöst.
+- [1 Punkt] **Alle Programme** berücksichtigen **alle Clean-Code-Regeln**.
+- [1 Punkt] Die Ordner und Dateien sind **alle** am korrekten Ort (Struktur).
+- [1 Punkt] Die **Nachrichten** in den "**Commit and Push**"-Aktionen sind **sinnvoll**.
+
+Für jeden **Fehler** gibt es mindestens einen **Abzug von 0,25 Punkten**.
+
+#### Bewertung
+
+| **Kriterium**               | **Punktzahl** | **Kommentar** |
+|:----------------------------|:-------------:|:--------------|
+| Ordner- und Dateinamen      |     0,5/1     | siehe unten   |
+| Gelöste Übungen             |     0,5/1     | siehe unten   |
+| Clean-Code-Regeln           |      0/1      | siehe unten   |
+| Struktur                    |      1/1      | :grinning:    |
+| Commit-and-Push-Nachrichten |      1/1      | :grinning:    |
+
+Sie erhalten für diese **Bewertung 3 von 5 Punkten**.
+
+##### Ordner- und Dateinamen
+
+- 02_konsole/03_aritmetik/01_beispiel_quadrat: .py fehlt und sollte nur 01_beispiel.py heissen
+- 02_konsole/03_aritmetik/02_recteck.py: es muss 02_rechteck.py heissen
+
+##### Gelöste Übungen
+
+- 02_konsole/02_formatierte_strings/04_apfelkuchen.py:
+    - import calendar ist unnötig
+- 01_turtle/05_schleifen/05_zufallsquadrat.py: hat Fehler bzgl. import
+
+##### Clean-Code-Regeln
+
+- Anzahl der Leerzeilen nicht korrekt. Es muss eine Leerzeile am Ende sein und eine Leerzeile nach den import-Befehlen.
+    - 01_turtle/04_variablen/10_zufallsdreieck.py
+    - Alle Dateien im 01_turtle/05_schleifen-Ordner
+    - 02_konsole/01_bildschirmausgabe/01_beispiel.py
+    - 02_konsole/01_bildschirmausgabe/02_witz.py
+    - 02_konsole/01_bildschirmausgabe/03_anschrift.py
+    - 02_konsole/01_bildschirmausgabe/05_schaltjahr.py
+    - 02_konsole/01_bildschirmausgabe/06_zufallzahlen.py
+    - 02_konsole/02_formatierte_strings/01_beispiel.py
+    - 02_konsole/02_formatierte_strings/02_zufallszahl_v2.py
+    - 02_konsole/02_formatierte_strings/03_schaltjahr_v2.py
+    - 02_konsole/02_formatierte_strings/05_schaljahre.py
+    - 02_konsole/03_aritmetik/01_beispiel_quadrat
+    - 02_konsole/03_aritmetik/02_recteck.py
+- 02_konsole/03_aritmetik/01_beispiel_quadrat:
+    - flaecheninalt sollte flaecheninhalt heissen
+    - Zwei Leerzeichen vor dem Hash: # es
+
