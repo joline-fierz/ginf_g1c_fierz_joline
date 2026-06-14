@@ -8,4 +8,3 @@ name_4 = input("Name der 4 Person")
 namen = [name_1, name_2, name_3, name_4]
 chef = r.choice(namen)
 print(f"{chef} ist der Teamchef")
-

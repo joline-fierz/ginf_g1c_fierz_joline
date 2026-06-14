@@ -1,4 +1,4 @@
-import turtle as t
+import turtle
 import random as rd
 
 a = random.randrange(25, 101)

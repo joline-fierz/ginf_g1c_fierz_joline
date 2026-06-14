@@ -7,3 +7,4 @@ for _ in range(anzahl):
     zufallsjahr = rd.randrange(1900, 2026)
     antwort = cal.isleap(zufallsjahr)
     print(f"Es ist das Jahr {zufallsjahr}. Ist es ein Schaltjahr? {antwort}")
+    

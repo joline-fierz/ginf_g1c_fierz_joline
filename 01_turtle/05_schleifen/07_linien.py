@@ -6,3 +6,4 @@ t.speed(10)
 for _ in range(72):
     t.fd(a)
     t.lt(95)
+    

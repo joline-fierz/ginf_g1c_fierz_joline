@@ -10,3 +10,4 @@ for _ in range(5):
         t.fd(a)
         t.rt(144)
     t.lt(72)
+    

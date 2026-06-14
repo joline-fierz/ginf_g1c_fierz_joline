@@ -1,4 +1,3 @@
-import calendar as cal
 import random as rd
 
 anzahl = rd.randrange(1, 13)

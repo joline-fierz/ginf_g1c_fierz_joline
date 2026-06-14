@@ -2,11 +2,7 @@ import random as rd
 
 a = rd.randrange(10, 101)
 umfang = a + a + a + a # es speichert nur das Erebnis, nicht den Rechenweg
-flaecheninalt = a * a
+flaecheninhalt = a * a
 print(f"Seitenlaenge: {a}")
 print(f"Umfang: {umfang}")
-print(f"Flächeninhalt: {flaecheninalt}")
-
-
-
-
+print(f"Flächeninhalt: {flaecheninhalt}")

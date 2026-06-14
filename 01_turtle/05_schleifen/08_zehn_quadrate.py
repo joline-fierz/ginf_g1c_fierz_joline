@@ -11,3 +11,4 @@ for _ in range(10):
         t.fd(a)
         t.lt(90)
     t.fd(a)
+    

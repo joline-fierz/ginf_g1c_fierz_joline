@@ -6,3 +6,4 @@ for _ in range(8):
     t.fd(a)
     t.bk(a)
     t.lt(45)
+    

@@ -11,4 +11,4 @@ for x in range(0, bild.width):
     for y in range(0, bild.height):
         bild.putpixel((x, y), (r, g, b))
         
-bild.save("01_beispiel_ergebnis.png") 
+bild.save("01_beispiel_ergebnis.png")
