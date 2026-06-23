@@ -137,3 +137,52 @@ Sie erhalten für diese **Bewertung 3 von 5 Punkten**.
     - flaecheninalt sollte flaecheninhalt heissen
     - Zwei Leerzeichen vor dem Hash: # es
 
+### GitHub-Bewertung 3 (14. Juni 2026)
+
+Es gibt fuer diese Bewertung maximal **10 Punkte**.
+
+#### Kriterien
+
+- [2 Punkte] Struktur: Es sind alle Ordner- und Dateinamen vorhanden und am korrekten Ort. Der Name stimmt mit den
+  Vorgaben der Uebungen ueberein.
+- [2 Punkte] Geloeste Uebungen: Es wurden alle Uebungen vollstaendig und korrekt geloest.
+- [5 Punkte] Clean-Code-Regeln: In jedem Programm werden alle Clean Code-Regeln beruecksichtigt.
+- [1 Punkt] "Commit and Push": Die Nachrichten wurden sinnvoll gewaehlt.
+
+#### Hinweise
+
+- Es erfolgt eine strikte Bewertung. Beispiele: auch kleine Abweichungen in der Struktur (z.B. falscher Ordnername oder
+  Dateiname) fuehren zu einem Abzug
+- Nach der Bewertung kann keine erneute Korrektur der Fehler vorgenommen werden. Die Punkte sind dann fix.
+- Bei einer verspaeteten Abgabe gibt es maximal 50 % der Punkte.
+- Abzug pro Fehler: 0,5 Punkte (wenn zu viele Uebungen nicht geloest wurden, dann gibt es pro Clean-Code-Fehler einen
+  Abzug von einem Punkt).
+
+#### Bewertung
+
+| **Kriterium**               | **Punktzahl** | **Kommentar** |
+|:----------------------------|:-------------:|:--------------|
+| Struktur                    |      1/2      | siehe unten   |
+| Geloeste Uebungen           |      2/2      | :grinning:    |
+| Clean-Code-Regeln           |      5/5      | :grinning:    |
+| Commit-and-Push-Nachrichten |      1/1      | :grinning:    |
+
+Sie erhalten fuer diese **Bewertung 9 von 10 Punkten**.
+
+##### Struktur
+
+- 02_konsole/03_arithmetik/10_binaerzahl.py falsch geschrieben.
+- 03_bildbearbeitung/03_verschachtelte_schleifen/ falsch geschrieben
+
+##### Geloeste Uebungen
+
+Es wurden keine zusaetzlichen Inhaltsfehler festgestellt, die nicht bereits als Strukturfehler bewertet wurden.
+
+##### Clean-Code-Regeln
+
+Es wurden keine zusaetzlichen Clean-Code-Fehler nach den bewerteten Regeln festgestellt.
+
+##### Commit-and-Push-Nachrichten
+
+Die Commit-and-Push-Nachrichten ab dem 1. Maerz sind kurz, aber aufgabenbezogen. Es gibt keine Nachricht, die als
+totaler Quatsch bewertet werden muss.
